@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="删除无序数组中的重复项/删除无序数组中的重复项.vcxproj" />
+</Solution>

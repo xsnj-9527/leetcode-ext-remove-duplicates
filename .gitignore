@@ -1,0 +1,10 @@
+#Visual Studio Code files
+*.sln
+*.Studio
+.vs/
+*.vcxproj
+#编译产物
+Debug/
+Release/
+*.exe
+*.obj
